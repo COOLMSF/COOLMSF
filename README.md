@@ -12,7 +12,7 @@ I love programming and I love Hacking.
 
 ### Talking about Personal Stuffs:
 
-- 👨🏽‍💻 I’m currently a Security Enginnering; 
+- 👨🏽‍💻 I’m currently a Security Enginner; 
 - 🤔 My interests are with Linux kernel and macOS programming, AI in Hacking, malware analysis, Python, C/Cpp, Rust, etc..;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email me if you have any questions.
