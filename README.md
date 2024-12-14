@@ -5,7 +5,12 @@
 
 Hi there, I'm **coolder**, a **gray hat hacker**.
 
+![Coding](https://raw.githubusercontent.com/COOLMSF/COOLMSF/main/assets/coding.gif)
+
+
 I love programming and I love Hacking.
+
+![Coding](https://raw.githubusercontent.com/COOLMSF/COOLMSF/main/assets/gif3.gif)
 
 ### Talking about Personal Stuffs:
 
