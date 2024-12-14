@@ -5,7 +5,6 @@
 
 Hi there, I'm **coolder**, a **gray hat hacker**.
 
-
 I love programming and I love Hacking.
 
 ### Talking about Personal Stuffs:
@@ -28,10 +27,8 @@ I love programming and I love Hacking.
 
 ### Contact me:
 
-- Email: [![Email](https://img.shields.io/badge/albert.abdilim@foxmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:cooler.hsl@outlook.com)
+- Email: [![Email](https://img.shields.io/badge/coolder.hsl@outlook.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:cooler.hsl@outlook.com)
 
-### I like running
-[![running](https://ghproxy.com/https://raw.githubusercontent.com/L1cardo/running_page/gh-pages/static/assets/github.svg)](https://run.licardo.cn)
 
 ### My GitHub Contributions
 
@@ -42,4 +39,4 @@ I love programming and I love Hacking.
 ![Licardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=COOLMSF&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=COOLMSF&layout=compact)
 
-⭐️ From [L1cardo](https://github.com/COOLMSF)
+⭐️ From [COOLDER](https://github.com/COOLMSF)
