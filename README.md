@@ -1,19 +1,17 @@
 ![me](https://github.com/L1cardo/L1cardo/raw/main/me.gif)
 
 <a href="https://github.com/L1cardo/iBeats"><img align="right" width="150px" src="https://raw.githubusercontent.com/L1cardo/iBeats/main/files/heart.svg"/></a>
-## Hey 👋, I'm Albert Abdilim
+## Hey 👋, I'm coolder
 
-Hi there, I'm **Albert Abdilim**, a **medical student**.
+Hi there, I'm **coolder**, a **gray hat hacker**.
 
-I am **[Uyghur](https://en.wikipedia.org/wiki/Uyghurs)**, which is a minority in China. Now I am studying medical imaging at **[HUST](http://english.hust.edu.cn/)**.
 
-I love programming and I love Swift.
+I love programming and I love Hacking.
 
 ### Talking about Personal Stuffs:
 
-- 👨🏽‍💻 I’m currently a medical student at my 4th year; 
-- 🤔 My interests are with iOS and macOS programming, AI in medical, Python etc..;
-- 💼 I’m pursuing a Bachelor's degree in Medical Imaging;
+- 👨🏽‍💻 I’m currently a Security Enginnering; 
+- 🤔 My interests are with Linux and macOS programming, AI in Hacking, Python, C/Cpp, Rust, etc..;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email me if you have any questions.
 
@@ -30,10 +28,7 @@ I love programming and I love Swift.
 
 ### Contact me:
 
-- Personal website: [![website](https://img.shields.io/badge/https://licardo.cn-3693F3?style=flat-square&logo=icloud&logoColor=white)](https://licardo.cn)
-- Twitter: [![Twitter](https://img.shields.io/badge/@AlbertAbdilim-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/AlbertAbdilim) 
-- Weibo: [![Weibo](https://img.shields.io/badge/@Albert__Abdilim-E6162D?style=flat-square&logo=sina-weibo&logoColor=white)](https://weibo.com/1935602951)
-- Email: [![Email](https://img.shields.io/badge/albert.abdilim@foxmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:albert.abdilim@foxmail.com)
+- Email: [![Email](https://img.shields.io/badge/albert.abdilim@foxmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:cooler.hsl@outlook.com)
 
 ### I like running
 [![running](https://ghproxy.com/https://raw.githubusercontent.com/L1cardo/running_page/gh-pages/static/assets/github.svg)](https://run.licardo.cn)
