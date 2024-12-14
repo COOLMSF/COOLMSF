@@ -4,18 +4,14 @@
 ## Hey 👋, I'm coolder
 
 Hi there, I'm **coolder**, a **gray hat hacker**.
-
 ![Coding](https://raw.githubusercontent.com/COOLMSF/COOLMSF/main/assets/coding.gif)
-
-
 I love programming and I love Hacking.
-
 ![Coding](https://raw.githubusercontent.com/COOLMSF/COOLMSF/main/assets/gif3.gif)
 
 ### Talking about Personal Stuffs:
 
 - 👨🏽‍💻 I’m currently a Security Enginnering; 
-- 🤔 My interests are with Linux and macOS programming, AI in Hacking, Python, C/Cpp, Rust, etc..;
+- 🤔 My interests are with Linux kernel and macOS programming, AI in Hacking, malware analysis, Python, C/Cpp, Rust, etc..;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email me if you have any questions.
 
