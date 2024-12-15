@@ -1,4 +1,4 @@
-![me](https://github.com/COOLMSF/COOLMSF/raw/main/me.gif)
+<!-- ![me](https://github.com/COOLMSF/COOLMSF/raw/main/me.gif) -->
 
 <a href="https://github.com/L1cardo/iBeats"><img align="right" width="150px" src="https://raw.githubusercontent.com/L1cardo/iBeats/main/files/heart.svg"/></a>
 ## Hey 👋, I'm coolder
